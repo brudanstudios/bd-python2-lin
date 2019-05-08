@@ -22,10 +22,10 @@ build/
 .pytest_cache/
 
 
-bin/
+bin/*
 !bin/python2.7
 
 lib/
 
-lib64/python2.7/site-packages/
+lib64/python2.7/site-packages/*
 !lib64/python2.7/site-packages/sitecustomize.py

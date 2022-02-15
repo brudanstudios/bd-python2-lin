@@ -10,9 +10,6 @@ __pycache__/
 .settings/
 .idea/
 
-# virtual environment
-venv/
-
 # setuptools
 dist/
 build/
@@ -28,4 +25,3 @@ bin/*
 lib/
 
 lib64/python2.7/site-packages/*
-!lib64/python2.7/site-packages/sitecustomize.py
